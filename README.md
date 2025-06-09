@@ -83,7 +83,7 @@ For each problem, I aim to:
 ## 📌 Useful Links
 
 - [NeetCode 150 Practice List](https://neetcode.io/practice)
-- [My LeetCode Profile](#) *(add your profile link)*
+- [My LeetCode Profile](https://leetcode.com/u/hbarahona022/)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 
 ---
