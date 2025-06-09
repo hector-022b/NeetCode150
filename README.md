@@ -49,7 +49,7 @@ Each topic has its own folder containing:
 |--------------|----------------------|---------------------------|
 | **1️⃣ Arrays & Hashing** | Hash Maps, frequency counting, sets | 1 / 9 |
 | **2️⃣ Two Pointers** | Left/right pointers, in-place operations | 0 / 7 |
-| **3️⃣ Sliding Window** | Subarrays, max/min tracking | 0 / 4 |
+| **3️⃣ Stack** | Subarrays, max/min tracking | 0 / 4 |
 | **4️⃣ Stack** | LIFO, monotonic stacks | 0 / 6 |
 | **5️⃣ Binary Search** | Logarithmic search, sorted arrays | 0 / 5 |
 | **6️⃣ Linked List** | Pointers, dummy nodes, fast/slow | 0 / 7 |
