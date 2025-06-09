@@ -1,5 +1,12 @@
 # 🚀 NeetCode 150 Challenge
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-In%20Progress-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/contributions-welcome-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made_with-%E2%9D%A4-red?style=flat-square" />
+</p>
+
 Welcome to my **NeetCode 150** practice repository! This repo is dedicated to solving the [NeetCode 150](https://neetcode.io/practice) — a curated set of essential LeetCode problems for mastering data structures and algorithms.
 
 ---
